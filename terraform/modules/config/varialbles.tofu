@@ -1,0 +1,3 @@
+variable "raw" {
+    type = any
+}
